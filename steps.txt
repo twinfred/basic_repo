@@ -1,0 +1,24 @@
+1. Created a new repository in GitHub called "basic_repo"
+
+2. Created a new folder from the terminal called "basic_repo" (md basic_repo)
+
+3. git init
+
+4. Created index.html, aboutMe.txt and style.css
+
+5. git add .
+
+6. git commit -m "added index.html aboutMe.txt and style.css"
+
+7. git remote add origin https://github.com/twinfred/basic_repo.git
+
+8. git push -u origin master
+
+9. Created script.js from terminal (copy NUL script.js)
+
+10.  git add .
+
+11. git commit -m "added script.js"
+
+12. git push origin master
+
